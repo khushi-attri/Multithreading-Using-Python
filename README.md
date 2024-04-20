@@ -1,1 +1,1 @@
-![image](https://github.com/khushi-attri/Multithreading-Using-Python/assets/97894347/c1b313cb-17e6-4451-887b-e3d243b9105e)
+Threading allows the code to split the matrix multiplication task into smaller parts that can run concurrently. Each thread handles a portion of the matrix computation, sharing memory space and potentially improving performance by utilizing multiple CPU cores. The main function orchestrates the creation and execution of threads, measures their performance, and plots the results.

@@ -1,4 +1,4 @@
-Threading allows the code to split the matrix multiplication task into smaller parts that can run concurrently. Each thread handles a portion of the matrix computation, sharing memory space and potentially improving performance by utilizing multiple CPU cores. The main function orchestrates the creation and execution of threads, measures their performance, and plots the results.
+Threading allows the code to split the matrix multiplication task into smaller parts that can run concurrently. Each thread handles a portion of the matrix computation, sharing memory space and potentially improving performance by utilizing multiple CPU cores. The main function does the creation and execution of threads, measures their performance, and plots the results.
 
 | No of Cores | Time Taken (sec) |
 |-------------|-------------------|
